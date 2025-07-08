@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
