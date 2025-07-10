@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0197-rising-temperature) |
 | [0610-triangle-judgement](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0610-triangle-judgement) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
