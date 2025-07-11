@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
