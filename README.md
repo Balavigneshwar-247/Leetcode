@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0607-sales-person](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0627-swap-salary) |
