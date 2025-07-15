@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0627-swap-salary) |
+| [1877-find-followers-count](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1877-find-followers-count) |
 ## Two Pointers
 |  |
 | ------- |
