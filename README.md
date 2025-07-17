@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
+| [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
