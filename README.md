@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3379-score-of-a-string](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0100-same-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
