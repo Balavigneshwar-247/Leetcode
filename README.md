@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
