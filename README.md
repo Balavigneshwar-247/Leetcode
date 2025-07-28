@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
+| [0961-long-pressed-name](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0961-long-pressed-name) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0961-long-pressed-name](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3379-score-of-a-string](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3379-score-of-a-string) |
