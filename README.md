@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3194-find-words-containing-character](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3194-find-words-containing-character](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
