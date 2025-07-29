@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
