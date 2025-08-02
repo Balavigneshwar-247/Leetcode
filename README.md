@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1580-shuffle-the-array](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1791-richest-customer-wealth](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
