@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Database
 |  |
 | ------- |
