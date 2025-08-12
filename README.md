@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
