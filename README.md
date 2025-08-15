@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2556-convert-the-temperature](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -130,8 +131,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
