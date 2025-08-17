@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
