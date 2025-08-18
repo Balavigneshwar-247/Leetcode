@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0455-assign-cookies) |
 | [0961-long-pressed-name](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0961-long-pressed-name) |
 ## String
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
