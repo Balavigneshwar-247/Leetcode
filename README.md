@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1448-maximum-69-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
