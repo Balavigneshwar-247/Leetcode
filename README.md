@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1511-count-number-of-teams](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1511-count-number-of-teams](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Tree
 |  |
 | ------- |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
