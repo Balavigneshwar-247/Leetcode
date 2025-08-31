@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0075-sort-colors) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0961-long-pressed-name](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0961-long-pressed-name) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Divide and Conquer
