@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3194-find-words-containing-character](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Balavigneshwar-247/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
