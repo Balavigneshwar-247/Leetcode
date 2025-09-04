@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Balavigneshwar-247/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3830-find-closest-person](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3830-find-closest-person) |
 ## Database
 |  |
 | ------- |
