@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0441-arranging-coins) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0012-integer-to-roman) |
 | [0720-longest-word-in-dictionary](https://github.com/Balavigneshwar-247/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Balavigneshwar-247/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
